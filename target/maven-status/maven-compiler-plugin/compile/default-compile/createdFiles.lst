@@ -1,0 +1,4 @@
+Main.class
+entity\Product.class
+parsers\ProductListParser.class
+parsers\ProductInfoParser.class

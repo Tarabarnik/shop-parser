@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.3" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="entity.Product" id="Product0">
+    <void property="articleId">
+     <long>4485470</long>
+    </void>
+    <void property="brand">
+     <string>HELLY HANSEN</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>anthrazit / schwarz</string>
+     </void>
+     <void method="add">
+      <string>dunkelblau / dunkelgrün / orange</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>199,95 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Jacke &apos;Puffer&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/helly-hansen/jacke-puffer-4485470</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product1">
+    <void property="articleId">
+     <long>8144131827</long>
+    </void>
+    <void property="brand">
+     <string>JACK &amp; JONES</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>blue denim</string>
+     </void>
+     <void method="add">
+      <string>black denim</string>
+     </void>
+     <void method="add">
+      <string>black denim</string>
+     </void>
+     <void method="add">
+      <string>blue denim</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>39,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Jeans &apos;Glenn Original AM 814 Noos&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/jack-jones/jeans-glenn-original-am-814-noos-4131827</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product2">
+    <void property="articleId">
+     <long>4361499</long>
+    </void>
+    <void property="brand">
+     <string>Champion Authentic Athletic Apparel</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>navy / weiß</string>
+     </void>
+     <void method="add">
+      <string>dunkelblau / offwhite</string>
+     </void>
+     <void method="add">
+      <string>khaki / schwarz</string>
+     </void>
+     <void method="add">
+      <string>petrol / weiß</string>
+     </void>
+     <void method="add">
+      <string>graumeliert / weiß</string>
+     </void>
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>orangerot</string>
+     </void>
+     <void method="add">
+      <string>blau / weiß</string>
+     </void>
+     <void method="add">
+      <string>tanne / weiß</string>
+     </void>
+     <void method="add">
+      <string>navy / graumeliert</string>
+     </void>
+     <void method="add">
+      <string>gelb</string>
+     </void>
+     <void method="add">
+      <string>dunkelrot / schwarz</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>49,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Sweatshirt &apos;Crewneck&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-crewneck-4361499</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product3">
+    <void property="articleId">
+     <long>4157545</long>
+    </void>
+    <void property="brand">
+     <string>ADIDAS ORIGINALS</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>schwarz / weiß</string>
+     </void>
+     <void method="add">
+      <string>dunkelgrün</string>
+     </void>
+     <void method="add">
+      <string>schwarz / weiß</string>
+     </void>
+     <void method="add">
+      <string>navy</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>34,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Shirt &apos;LS T&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/adidas-originals/shirt-ls-t-4157545</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product4">
+    <void property="articleId">
+     <long>3534402</long>
+    </void>
+    <void property="brand">
+     <string>LEVI&apos;S</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>weiß</string>
+     </void>
+     <void method="add">
+      <string>weiß</string>
+     </void>
+     <void method="add">
+      <string>weinrot</string>
+     </void>
+     <void method="add">
+      <string>dunkelblau</string>
+     </void>
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>hellblau / weiß</string>
+     </void>
+     <void method="add">
+      <string>rot / weiß</string>
+     </void>
+     <void method="add">
+      <string>dunkelblau</string>
+     </void>
+     <void method="add">
+      <string>weiß</string>
+     </void>
+     <void method="add">
+      <string>grau</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>24,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>T-Shirt</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/levi-s/t-shirt-3534402</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product5">
+    <void property="articleId">
+     <long>4316778</long>
+    </void>
+    <void property="brand">
+     <string>Nike Sportswear</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>orange</string>
+     </void>
+     <void method="add">
+      <string>rostrot</string>
+     </void>
+     <void method="add">
+      <string>petrol</string>
+     </void>
+     <void method="add">
+      <string>rot</string>
+     </void>
+     <void method="add">
+      <string>dunkelblau</string>
+     </void>
+     <void method="add">
+      <string>dunkelgrün</string>
+     </void>
+     <void method="add">
+      <string>weiß</string>
+     </void>
+     <void method="add">
+      <string>naturweiß</string>
+     </void>
+     <void method="add">
+      <string>grau</string>
+     </void>
+     <void method="add">
+      <string>beige</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>49,90 EUR 54,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Sweatshirt &apos;Club&apos; Workpant &apos;WE872&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/nike-sportswear/sweatshirt-club-4316778</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product6">
+    <void property="articleId">
+     <long>4088963</long>
+    </void>
+    <void property="brand">
+     <string>JACK &amp; JONES</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>navy</string>
+     </void>
+     <void method="add">
+      <string>hellbeige</string>
+     </void>
+     <void method="add">
+      <string>oliv</string>
+     </void>
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>39,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Hose &apos;NOOS - JJIMARCO JJBOWIE SA NAVY BLAZER NOOS&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/jack-jones/hose-noos-jjimarco-jjbowie-sa-navy-blazer-noos-4088963</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product7">
+    <void property="articleId">
+     <long>3952557</long>
+    </void>
+    <void property="brand">
+     <string>Only &amp; Sons</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>dunkelgrün</string>
+     </void>
+     <void method="add">
+      <string>navy</string>
+     </void>
+     <void method="add">
+      <string>hellblau / dunkelblau</string>
+     </void>
+     <void method="add">
+      <string>orangerot / schwarz</string>
+     </void>
+     <void method="add">
+      <string>anthrazit / dunkelgrau</string>
+     </void>
+     <void method="add">
+      <string>grau / hellgrau</string>
+     </void>
+     <void method="add">
+      <string>anthrazit</string>
+     </void>
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>29,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Pullover &apos;onsSATO MULTI CLR KNIT NOOS&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/only-sons/pullover-onssato-multi-clr-knit-noos-3952557</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product8">
+    <void property="articleId">
+     <long>4365509</long>
+    </void>
+    <void property="brand">
+     <string>Tommy Jeans</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>dunkelblau</string>
+     </void>
+     <void method="add">
+      <string>weiß</string>
+     </void>
+     <void method="add">
+      <string>burgunder</string>
+     </void>
+     <void method="add">
+      <string>dunkelgrün</string>
+     </void>
+     <void method="add">
+      <string>gelb</string>
+     </void>
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>taupe</string>
+     </void>
+     <void method="add">
+      <string>rot</string>
+     </void>
+     <void method="add">
+      <string>dunkelblau</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>199,00 EUR 139,00 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Jacke Schnürschuh &apos;Daytona 1B&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/tommy-jeans/jacke-4365509</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product9">
+    <void property="articleId">
+     <long>4147223</long>
+    </void>
+    <void property="brand">
+     <string>Nike Sportswear</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>weiß</string>
+     </void>
+     <void method="add">
+      <string>navy / weiß</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>19,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Shirt &apos;Club Tee&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/nike-sportswear/shirt-club-tee-4147223</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product10">
+    <void property="articleId">
+     <long>4504032</long>
+    </void>
+    <void property="brand">
+     <string>ABOUT YOU x Magic Fox</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>grau</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>49,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Hoodie &apos;Milo&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/about-you-x-magic-fox/hoodie-milo-4504032</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product11">
+    <void property="articleId">
+     <long>843605035</long>
+    </void>
+    <void property="brand">
+     <string>LEVI&apos;S</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>blau / rot / weiß</string>
+     </void>
+     <void method="add">
+      <string>hellblau</string>
+     </void>
+     <void method="add">
+      <string>blau / graumeliert / rot</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>24,95 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Shirt &apos;SPORTSWEARLOGOGRAPH IC84SPORTSWEARL&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/levi-s/shirt-sportswearlogograph-ic84sportswearl-3605035</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product12">
+    <void property="articleId">
+     <long>4027171</long>
+    </void>
+    <void property="brand">
+     <string>Urban Classics</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>dunkelgrau</string>
+     </void>
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+     <void method="add">
+      <string>oliv</string>
+     </void>
+     <void method="add">
+      <string>sand</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>ab 49,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Hose</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/urban-classics/hose-4027171</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product13">
+    <void property="articleId">
+     <long>4305525</long>
+    </void>
+    <void property="brand">
+     <string>BRUNO BANANI</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>schwarz</string>
+     </void>
+    </void>
+    <void property="price">
+     <string></string>
+    </void>
+    <void property="productName">
+     <string>Anzug</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/bruno-banani/anzug-4305525</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product14">
+    <void property="articleId">
+     <long>84723774568</long>
+    </void>
+    <void property="brand">
+     <string>Only &amp; Sons</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>blue denim</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>39,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Jeans &apos;LOOM BLUE JOG PK 8472 NOOS&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/only-sons/jeans-loom-blue-jog-pk-8472-noos-3774568</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="entity.Product" id="Product15">
+    <void property="articleId">
+     <long>4360102</long>
+    </void>
+    <void property="brand">
+     <string>JACK &amp; JONES</string>
+    </void>
+    <void property="colors">
+     <void method="add">
+      <string>weinrot</string>
+     </void>
+     <void method="add">
+      <string>khaki</string>
+     </void>
+     <void method="add">
+      <string>hellbeige</string>
+     </void>
+     <void method="add">
+      <string>blau</string>
+     </void>
+     <void method="add">
+      <string>anthrazit</string>
+     </void>
+     <void method="add">
+      <string>taubenblau</string>
+     </void>
+    </void>
+    <void property="price">
+     <string>39,90 EUR</string>
+    </void>
+    <void property="productName">
+     <string>Hemd &apos;EMELANGE&apos;</string>
+    </void>
+    <void property="url">
+     <string>https://www.aboutyou.de/p/jack-jones/hemd-emelange-4360102</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
