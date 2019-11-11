@@ -1,1 +1,1 @@
-"# shop-parser" 
+Simple project, based on JSoup library
